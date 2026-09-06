@@ -1,32 +1,57 @@
 [
   {
     "id": 1,
+    "firstName": "Priya",
+    "lastName": "Brown",
+    "fullName": "Priya Brown",
+    "email": "priya.brown@example.com",
+    "age": 43,
+    "city": "Delhi",
+    "active": true,
+    "createdAt": "2026-09-06T19:11:28.692Z"
+  },
+  {
+    "id": 2,
+    "firstName": "David",
+    "lastName": "Smith",
+    "fullName": "David Smith",
+    "email": "david.smith@example.com",
+    "age": 23,
+    "city": "Chennai",
+    "active": true,
+    "createdAt": "2026-09-06T19:11:28.692Z"
+  },
+  {
+    "id": 3,
+    "firstName": "Emma",
+    "lastName": "Williams",
+    "fullName": "Emma Williams",
+    "email": "emma.williams@example.com",
+    "age": 36,
+    "city": "Bangalore",
+    "active": true,
+    "createdAt": "2026-09-06T19:11:28.692Z"
+  },
+  {
+    "id": 4,
     "firstName": "John",
     "lastName": "Patel",
     "fullName": "John Patel",
     "email": "john.patel@example.com",
-    "age": 48,
-    "city": "Chennai",
-    "active": true
-  },
-  {
-    "id": 2,
-    "firstName": "John",
-    "lastName": "Johnson",
-    "fullName": "John Johnson",
-    "email": "john.johnson@example.com",
-    "age": 42,
+    "age": 25,
     "city": "Hyderabad",
-    "active": false
+    "active": false,
+    "createdAt": "2026-09-06T19:11:28.692Z"
   },
   {
-    "id": 3,
-    "firstName": "Alice",
-    "lastName": "Williams",
-    "fullName": "Alice Williams",
-    "email": "alice.williams@example.com",
-    "age": 53,
-    "city": "Chennai",
-    "active": false
+    "id": 5,
+    "firstName": "Arun",
+    "lastName": "Brown",
+    "fullName": "Arun Brown",
+    "email": "arun.brown@example.com",
+    "age": 30,
+    "city": "Delhi",
+    "active": false,
+    "createdAt": "2026-09-06T19:11:28.692Z"
   }
 ]
