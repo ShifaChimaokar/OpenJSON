@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Patel",
+    "fullName": "John Patel",
+    "email": "john.patel@example.com",
+    "age": 48,
+    "city": "Chennai",
+    "active": true
+  },
+  {
+    "id": 2,
+    "firstName": "John",
+    "lastName": "Johnson",
+    "fullName": "John Johnson",
+    "email": "john.johnson@example.com",
+    "age": 42,
+    "city": "Hyderabad",
+    "active": false
+  },
+  {
+    "id": 3,
+    "firstName": "Alice",
+    "lastName": "Williams",
+    "fullName": "Alice Williams",
+    "email": "alice.williams@example.com",
+    "age": 53,
+    "city": "Chennai",
+    "active": false
+  }
+]
