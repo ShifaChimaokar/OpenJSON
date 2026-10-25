@@ -1,0 +1,141 @@
+[
+    {
+      "name": "L'Appartement",
+      "year": 1996,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "language": "French",
+      "category": "Movie"
+    },
+    {
+      "name": "Mustang",
+      "year": 2015,
+      "genres": [
+        "Drama"
+      ],
+      "language": "Turkish",
+      "category": "Movie"
+    },
+    {
+      "name": "Anand",
+      "year": 1971,
+      "genres": [
+        "Drama"
+      ],
+      "language": "Hindi",
+      "category": "Movie"
+    },
+    {
+      "name": "Jamón Jamón",
+      "year": 1992,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "language": "Spanish",
+      "category": "Movie"
+    },
+    {
+      "name": "Incendies",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "language": "French",
+      "category": "Movie"
+    },
+    {
+      "name": "Let the Right One In",
+      "year": 2008,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "language": "Swedish",
+      "category": "Movie"
+    },
+    {
+      "name": "Kukaracha",
+      "year": 1982,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "Georgian",
+      "category": "Movie"
+    },
+    {
+      "name": "A Moment of Innocence",
+      "year": 1996,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "Persian",
+      "category": "Movie"
+    },
+    {
+      "name": "Possession",
+      "year": 1981,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Psychological Thriller"
+      ],
+      "language": "English",
+      "category": "Movie"
+    },
+    {
+      "name": "The Color of Pomegranates",
+      "year": 1969,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Experimental"
+      ],
+      "language": "Armenian",
+      "category": "Movie"
+    },
+    {
+      "name": "Watching the Detectives",
+      "year": 2007,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "language": "English",
+      "category": "Movie"
+    },
+    {
+      "name": "Marrowbone",
+      "year": 2017,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "English",
+      "category": "Movie"
+    },
+    {
+      "name": "The Lighthouse",
+      "year": 2019,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological Thriller"
+      ],
+      "language": "English",
+      "category": "Movie"
+    }
+  ]
